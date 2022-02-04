@@ -7,3 +7,7 @@ def foo():
 def bar():
     return "bar function called"
 
+
+def test():
+    return "test function called"
+
